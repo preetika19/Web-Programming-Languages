@@ -1,0 +1,55 @@
+
+.centered {
+	position: fixed;
+	top: 20%;
+	left: 45%;
+	margin-top: -50px;
+	margin-left: -100px;
+}
+
+#heading {
+	font-size: 20px;
+}
+
+#add-item {
+	background-color: #0d6efd;
+	color: #ffffff;
+}
+
+li > input {
+	width: 100%;
+	outline: 0;
+	border: 0;
+}
+
+ul {
+	list-style-type: none;
+}
+
+span > i {
+	padding-top: 13px;
+}
+
+span {
+	width: 40px; 
+	height: 40px; 
+	background-color: #dc3545;
+	text-align: center;
+	color: #ffffff;
+	display: none;
+}
+
+.borders1 {
+	border: 3px solid blue;
+	border-bottom: 0;
+}
+
+.borders2 {
+	border: 3px solid blue;
+	border-top: 0;
+}
+
+.done {
+	text-decoration: line-through;
+}
+
